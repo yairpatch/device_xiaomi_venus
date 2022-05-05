@@ -41,4 +41,7 @@
 
     <!-- Max visible system icons -->
     <integer name="config_maxVisibleStatusIconContainer">9</integer>
+
+    <!-- FPSInfoService Fps file path -->
+    <string name="config_fpsInfoSysNode" translatable="false">/sys/class/drm/card0/sde-crtc-0/measured_fps</string>
 </resources>
